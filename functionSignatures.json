@@ -1,0 +1,11 @@
+{
+    "_schemaVersion": "1.0.0",
+
+    "session.session":
+    {
+	"inputs":
+	[
+	    {"name": "filename", "kind": "required", "type": "file=*.mat"}
+	]
+    }
+}
